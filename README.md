@@ -4,8 +4,10 @@ Infomation and Milestones about my project converting VIETTHAI Wave Alpha 50cc t
 A 50cc bike, no Fuel Injection, max speed 70km/h, 3L fuel tank.
 
 # 2,Milestones
-[] Add 2kw hubmotor,Controller (Votol 100-150s),battery (48-72v 20-30AH)  
-[] Add HMI Module
+- [ ] Battery (48-72v 20-30AH)
+- [ ] Controller (Votol 100-150s) 
+- [ ] Add 2kw hubmotor 
+- [ ] Add HMI Module
 
 # 3,Showcase
 Placeholder (in summer only)
